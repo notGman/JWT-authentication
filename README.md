@@ -1,7 +1,7 @@
 
-# JWT-Authentication
+# JWT-Authorization
 
-A project using jasonwebtoken package in nodejs, which allows to manage and secure API endpoints from unauthenticated users.
+A project using jasonwebtoken package in nodejs, which allows to manage and secure API endpoints from unauthorized users.
 
 ## Documentation
 
