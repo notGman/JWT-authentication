@@ -16,7 +16,7 @@ Before you deploy the server create a .env file and enter the following Environm
 
 ```
 
-## ROUTES
+## ENDPOINTS
 
 /register -> Create a new user
 
